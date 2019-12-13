@@ -8,7 +8,7 @@ public class Test {
 			System.out.println("eat something");
 		}
 		else {
-			System.out.println("do workout");
+			System.out.println("do more workout");
 		}
 	}
 
