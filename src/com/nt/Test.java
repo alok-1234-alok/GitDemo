@@ -10,6 +10,8 @@ public class Test {
 		else {
 			System.out.println("do more workout");
 			System.out.println("base");
+			System.out.println("New");
+
 		}
 	}
 

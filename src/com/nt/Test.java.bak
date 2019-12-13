@@ -9,6 +9,11 @@ public class Test {
 		}
 		else {
 			System.out.println("do more workout");
+<<<<<<< HEAD
+			System.out.println("base");
+=======
+			System.out.println("New");
+>>>>>>> 4599aea54f0866dba45def2638c7845728abd4ac
 		}
 	}
 
